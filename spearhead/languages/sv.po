@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress.com - Themes - Spearhead package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-10-23 08:45:16+0000\n"
+"PO-Revision-Date: 2020-11-02 13:29:45+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,56 @@ msgstr ""
 "X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: sv_SE\n"
 "Project-Id-Version: WordPress.com - Themes - Spearhead\n"
+
+#: header.php:73 header.php:113
+msgid "expanded"
+msgstr "expanderad"
+
+#: header.php:79
+msgid "Woo Minicart"
+msgstr "Woo minivarukorg"
+
+#: header.php:100
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: header.php:102
+msgid "View your shopping list"
+msgstr "Visa din inköpslista"
+
+#: header.php:112
+msgid "Cart"
+msgstr "Varukorg"
+
+#: header.php:33 header.php:98
+msgid "collapsed"
+msgstr "minimerad"
+
+#: header.php:72
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:30
+msgid "Main"
+msgstr "Huvudwebbplats"
+
+#: header.php:32 header.php:96
+msgid "Close"
+msgstr "Stäng"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/spearhead/style.css
+msgid "https://wordpress.com/theme/spearhead"
+msgstr "https://wordpress.com/theme/spearhead"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/spearhead/style.css
+msgid "Share your podcast with the world using Spearhead."
+msgstr "Dela din podcast med världen med Spearhead."
 
 #: inc/block-patterns.php:49
 msgid "Categories"
