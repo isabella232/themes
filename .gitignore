@@ -7,6 +7,10 @@ vendor/
 *.zip
 *.rej
 
+#Ignoring headstart and language files
+*/inc/headstart
+*/languages
+
 #Retired themes we do not track in git
 able/
 academica/
@@ -222,6 +226,8 @@ quentin/
 quintus/
 radcliffe/
 reddle/
+redoable-lite/
+refresh-2019/
 regulus/
 resonar/
 responsive/
