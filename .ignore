@@ -13,3 +13,16 @@ p2020
 rivet
 refresh-2019
 twentynineteen-sb
+
+# items specific to git development not included in SVN
+.gitignore
+.git
+.github
+composer.json
+composer.lock
+package.json
+package-lock.json
+phpcs.xml.dist
+pre-commit-hook.js
+README.md
+**/LICENSE
