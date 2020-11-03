@@ -26,3 +26,6 @@ phpcs.xml.dist
 pre-commit-hook.js
 README.md
 **/LICENSE
+
+# themes only found in git project
+sk8prk
